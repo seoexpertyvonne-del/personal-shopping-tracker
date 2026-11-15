@@ -1,0 +1,30 @@
+
+/* GENERAL PAGE STYLING */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f6f9;
+    color: #333;
+    margin: 0;
+    padding: 30px;
+}
+
+/* MAIN HEADING */
+
+h1 {
+    color: #263b55;
+    text-align: center;
+}
+
+/* SECTION HEADINGS */
+
+h2 {
+    color: #385779;
+}
+
+/* PARAGRAPHS */
+
+p {
+    font-size: 16px;
+    line-height: 1.6;
+}
